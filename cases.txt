@@ -1,0 +1,6 @@
+Name,input,expectedresult 
+1_pos,abba,True
+2_pos,radar,True
+3_neg,volumes,False
+4_pos,v,True
+5_pos,,True
